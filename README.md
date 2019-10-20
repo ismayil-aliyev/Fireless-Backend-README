@@ -20,6 +20,10 @@ https://nasa-ada.herokuapp.com/spotfire/home
 | ltd    | Latitude of user         |
 | lng    | Latitude of user         |
 
+Machine Learning model (Support-Vector Machines) for image recognition
+------------
+Fireless Android clients' image upload submissions are fed to a machine learning algorithm in order to avoid false reports.
+Trained ML model is also publicly available in this repository, alongside with the associated Python script.
 
 
 
