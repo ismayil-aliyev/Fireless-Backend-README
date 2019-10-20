@@ -23,7 +23,11 @@ https://nasa-ada.herokuapp.com/spotfire/home
 Machine Learning model (Support-Vector Machines) for image recognition
 ------------
 Fireless Android clients' image upload submissions are fed to a machine learning algorithm in order to avoid false reports.
-Trained ML model is also publicly available in this repository, alongside with the associated Python script.
+Trained ML model is also publicly available in the link below, alongside with the associated Python script:
+
+https://drive.google.com/open?id=19a00BPpZseCHoQr5cq_QjlghYlRWtvIm
+
+
 
 
 
